@@ -1,0 +1,14 @@
+.logo{
+    
+    width: 30vw;
+    height: 20vh;
+}
+.button_style{
+    border: 2px solid #FA6400;
+    border-radius: 10px; 
+    background-color: #FA6400;
+    flex: 1 0 16%;
+    min-width: 14vw;
+    min-height: 10vh;
+    margin: 4%;
+}
